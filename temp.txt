@@ -1,0 +1,510 @@
+federal funds rate	135
+funds rate	135
+maximum employment	123
+mortgage-backed securities	110
+agency mortgage-backed securities	110
+inflation expectations	107
+price stability	104
+market conditions	89
+target range	86
+labor market conditions	77
+labor market	75
+dual mandate	71
+unemployment rate	68
+economic activity	65
+Treasury securities	59
+policy accommodation	57
+longer-term inflation expectations	50
+economic recovery	46
+holdings of agency	45
+financial developments	44
+monetary policy	44
+Daniel K. Tarullo	43
+housing sector	43
+William C. Dudley	43
+principal payments	43
+FOMC monetary policy action	43
+monetary policy action	43
+L. Yellen	43
+C. Dudley	43
+Market Committee	43
+Federal Open Market Committee	43
+K. Tarullo	43
+Vice Chairman	43
+Janet L. Yellen	43
+policy action	43
+statutory mandate	43
+Open Market Committee	43
+moderate pace	43
+economic conditions	41
+Committee judges	39
+agency debt	38
+securities in agency	38
+economic growth	38
+Household spending	37
+longer-run objective	37
+asset purchases	35
+medium term	35
+securities at auction	34
+stronger economic recovery	34
+accommodative stance	33
+market indicators	33
+recent months	33
+Jerome H. Powell	32
+H. Powell	32
+energy prices	31
+economic outlook	31
+context of price	30
+financial conditions	29
+labor market indicators	29
+measures of labor	28
+indicators of inflation	28
+inflation pressures	28
+declines in energy	27
+appropriate policy accommodation	26
+continued progress	26
+improvement in labor	25
+S. Bernanke	25
+Ben S. Bernanke	25
+longer-run goals	24
+balanced approach consistent	24
+approach consistent	24
+L. Evans	24
+Charles L. Evans	24
+judges consistent	23
+policy tools	22
+longer-term securities	22
+percent objective	22
+further improvement	22
+A. Duke	21
+Sarah Bloom Raskin	21
+purchase program	21
+considerable time	21
+Elizabeth A. Duke	21
+Bloom Raskin	21
+low levels	21
+asset purchase program	20
+longer-run goal	19
+longer-term interest rates	19
+percent longer-run goal	19
+longer-term Treasury securities	19
+interest rates	19
+broader financial conditions	19
+Committee today	19
+percent inflation	18
+range of information	18
+downside risks	18
+mortgage markets	18
+wide range	18
+such purchases	17
+coming months	17
+likely efficacy	17
+other policy tools	17
+support mortgage markets	17
+Charles I. Plosser	16
+C. Stein	16
+Dennis P. Lockhart	16
+downward pressure	16
+Richard W. Fisher	16
+Lael Brainard	16
+Jeffrey M. Lacker	16
+Jeremy C. Stein	16
+Stanley Fischer	16
+W. Fisher	16
+M. Lacker	16
+Narayana Kocherlakota	16
+I. Plosser	16
+P. Lockhart	16
+John C. Williams	16
+C. Williams	16
+percent target range	16
+resource utilization	16
+inflation developments	15
+Committee views	15
+purchases of Treasury	15
+target federal funds rate	14
+coming quarters	14
+mandate-consistent levels	14
+securities holdings	14
+rate below levels	14
+underutilization of labor	13
+labor resources	13
+Market-based measures	13
+6-1/2 percent	13
+inflation compensation	13
+sizable levels	13
+rates of resource	13
+low rates	13
+measures of inflation	13
+job gains	13
+international developments	12
+Labor market conditions	12
+near term	12
+global financial markets	12
+Longer-term inflation expectations	12
+program ends	12
+financial markets	12
+purchase program ends	12
+recovery strengthens	12
+asset purchase program ends	12
+levels consistent	12
+economic recovery strengthens	12
+holdings of securities	12
+transitory effects	12
+survey-based measures	12
+L. George	11
+significant downside risks	11
+Sandra Pianalto	11
+average maturity	11
+Esther L. George	11
+James Bullard	11
+current target range	10
+broader economy	10
+half percentage point	10
+incoming information	10
+additional agency	10
+subdued outlook	10
+outlook for inflation	10
+percentage point	10
+medium run	10
+additional measures	10
+other information	10
+prices dissipate	9
+non-energy imports	9
+range of labor	9
+import prices dissipate	9
+economic performance	9
+earlier declines	9
+accommodative financial conditions	9
+preset course	9
+low range	9
+pace of asset	8
+S. Rosengren	8
+current asset purchase program	8
+Fiscal policy	8
+Loretta J. Mester	8
+J. Mester	8
+monetary accommodation	8
+appropriate account	8
+Eric S. Rosengren	8
+net exports	8
+outlook for labor	8
+cumulative progress	7
+high level	7
+continued high level	7
+close attention	7
+financial imbalances	7
+signs of improvement	7
+confident that inflation	7
+long-term inflation expectations	7
+evolution of inflation	7
+effects of declines	7
+extent of restraint	7
+still-increasing holdings	7
+nonresidential structures	7
+future economic	7
+low level	7
+investment in equipment	6
+future meetings	6
+household spending	6
+recent low level	6
+further measured steps	6
+measured steps	6
+crude oil	6
+global economic	6
+announced in September	5
+fiscal policy	5
+business investment	5
+extended period	5
+prices of energy	5
+strong job gains	5
+overall labor market conditions	5
+holdings as appropriate	5
+Growth in household	5
+inflation goal	5
+forward guidance	4
+Labor market indicators	4
+economic objectives	4
+additional asset purchases	4
+supply chain disruptions	4
+shortfall of inflation	4
+future adjustments	4
+current shortfall	4
+fiscal retrenchment	4
+chain disruptions	4
+such improvement	4
+temporary variations	4
+solid job gains	4
+gradual increases	4
+financial conditions.Voting	4
+lower unemployment rate	4
+recent pace	4
+outlook in light	4
+least through mid-2013	4
+other factors	4
+slower pace	4
+percent longer-run objective	4
+underlying strength	4
+data.The Committee	4
+extent of progress	4
+federal fiscal retrenchment	4
+expected progress	4
+other commodity price increases	4
+growth in business	4
+time period	4
+longer run	4
+accommodative financial conditions.Voting	4
+percent inflation.In	4
+further signs	4
+actual path	4
+fluctuations in energy	4
+gradual adjustments	4
+past energy	4
+inflation changes	3
+pace of recovery	3
+stronger pace	3
+gradual return	3
+little changed	3
+current assessment	3
+recent labor market indicators	3
+likelihood of inflation	3
+recent indicators	3
+second quarter	3
+Growth in employment	3
+higher prices	3
+last year	3
+Eric Rosengren	3
+progress proves	3
+lower energy prices	3
+sustained improvement	3
+increase in oil	3
+recent months.Consistent	3
+inflation trends	3
+levels of resource	3
+proves slower	3
+commodity price increases	3
+higher levels	3
+additional policy accommodation	3
+inflation objectives	3
+pace of job	3
+price increases	3
+stable inflation expectations	3
+Committees holdings	3
+Committees longer-run objective	3
+extension program	2
+global supplies	2
+securities purchases	2
+tragic events	2
+unemployment rate declines	2
+coming meetings	2
+mortgage rates	2
+next meeting	2
+modest pace	2
+other commodities	2
+program in light	2
+previous statement	2
+fluctuations due	2
+Committee remains	2
+evidence that progress	2
+fixed investment	2
+rate declines	2
+purchases of agency	2
+pressure on inflation	2
+range of policy	2
+Apart from fluctuations	2
+asset-purchase program	2
+solid rates	2
+tools available	2
+transitory factors	2
+global growth	2
+overall size	2
+first half	2
+Commodity prices	2
+last fall	2
+consumer sentiment	2
+gasoline prices	2
+sufficient policy accommodation	2
+such language	2
+depressed level	2
+holdings of Treasury	2
+oil prices	2
+supplies of crude	2
+Asset purchases	2
+ongoing economic recovery	2
+year as prices	2
+equal amount	2
+least through mid-2015	2
+higher food	2
+additional strengthening	2
+low target range	2
+market-based measures	2
+amount of Treasury	2
+winter months	2
+inflation continue	2
+economic progress	2
+maturity extension program	2
+time dependent	2
+considerable economic progress	2
+weather-related disruptions	2
+adverse weather conditions	2
+significant underutilization	2
+transitory influences	2
+more evidence	2
+inflation outlook	2
+Business fixed investment	2
+changes in energy	2
+overall conditions	2
+weather conditions	2
+guidance indicating	2
+events in Japan	2
+first quarter	2
+lower prices	2
+basis points	2
+prices on consumer	2
+growth in employment	1
+sharp run-up	1
+upward pressure	1
+solid pace	1
+inflation rate	1
+market excess	1
+last summer	1
+firmer footing	1
+run-up in oil	1
+key element	1
+tight credit	1
+potential rate	1
+moderate rate	1
+low inflation readings	1
+moderate rates	1
+President Plosser	1
+gradual decline	1
+increases dissipate	1
+policy uncertainty	1
+earlier date-based guidance	1
+program of asset	1
+recent weakness	1
+confirms that underutilization	1
+date-based guidance	1
+monitoring global	1
+recent increases	1
+earlier reduction	1
+goal in light	1
+significant improvement	1
+commodity price increases dissipate	1
+future economic outcomes	1
+recent statements	1
+sixth paragraph	1
+U.S. economic performance	1
+recent increase	1
+performance since October	1
+decline in underutilization	1
+balance of risks	1
+temporary factors	1
+recent slide	1
+apparent slowing	1
+solid rate	1
+current forward guidance	1
+current quarter	1
+Committee anticipates	1
+supply-chain disruptions	1
+lower housing wealth	1
+housing wealth	1
+percent target	1
+additional decline	1
+inflation target	1
+third quarter	1
+fifth paragraph	1
+motor vehicles	1
+M. Warsh	1
+intentions as set	1
+policy intentions	1
+earlier peaks	1
+further policy accommodation	1
+recent quarters	1
+moderate economic growth	1
+initial increase	1
+further action	1
+economic outcomes	1
+December confirms	1
+Available data	1
+recent low inflation readings	1
+Committee envisions	1
+program in October	1
+commodity prices	1
+effects of energy	1
+passage of time	1
+export growth	1
+key commodities	1
+policy actions	1
+account domestic	1
+undue downside risk	1
+continued strengthening	1
+Indicators of labor	1
+spending on equipment	1
+continued sluggishness	1
+price declines	1
+large part	1
+labor utilization	1
+current program	1
+income growth	1
+winter in part	1
+percent inflation target	1
+low inflation	1
+faster pace	1
+Committees employment	1
+decline toward levels	1
+previous meeting	1
+Kevin M. Warsh	1
+conditions in mortgage	1
+inventory investment	1
+real income	1
+inflation readings	1
+Committees dual mandate	1
+set forth	1
+current pace	1
+additional accommodation	1
+financial market excess	1
+real incomes	1
+fosters policy uncertainty	1
+uncertainty that hinders	1
+higher energy prices	1
+high unemployment	1
+considerable improvement	1
+substantial improvement	1
+financial developments.Against	1
+end of June	1
+modest income growth	1
+April FOMC meeting	1
+other transitory factors	1
+recent weeks	1
+recent supply chain disruptions	1
+hinders economic activity	1
+recent declines	1
+energy price declines	1
+Business spending	1
+real economy	1
+Recent indicators	1
+general price stability	1
+Temporary factors	1
+FOMC meeting	1
+further increase	1
+past year	1
+improved outlook	1
+President Fisher	1
+previous statements	1
+additional improvement	1
+part factors	1
+late last year	1
+current level	1
+pace of improvement	1
+Recent global	1
+inflation indicators	1
+recovery in sales	1
+price increases dissipate	1
+further declines	1
+holdings in light	1
+sales of motor	1
+Business investment	1
+growth in output	1
+indicators of labor	1
+downside risk	1
